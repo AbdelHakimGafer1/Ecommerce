@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@strapi/provider-upload-cloudinary": "^4.25.10"
+    "@strapi/provider-upload-cloudinary": "^4.25.10",
+    "recharts": "^2.12.7"
   }
 }
